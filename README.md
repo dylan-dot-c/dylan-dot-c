@@ -1,12 +1,34 @@
-<h1>dylan-dot-c</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=F7CB00&repeat=false&width=435&lines=Frontend+Developer;FullStack+Developer;Always+Improving;ALways+getting+better;Dylan+Heslop." alt="Typing SVG" /></a>
+<h1>Dylan Heslop</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-dot-c&show_icons=true&theme=nightowl&border_color=red)](https://github.com/anuraghazra/github-readme-stats)
+ Hello there! My name is Dylan Heslop, a computer science major at <b>Lehman College</b> and I aspire to become a fullStack Software Developer! 
+ Programming is something I adore because I love solving problems and helping people learn how to code. My hobbies include:
+ - ⚽ playing soccer
+ - 🎮 playing video games and
+ - 💻 building websites
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-dot-c&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Bonjour, Je m'appel <i>@dylan-dot-c</i>(Dylan Heslop)
-- 👀 I’m interested in many fields of programming such as <b>Data Science<b>, <b>App Development</b> but I'm focused on learning Web Development right now.
-- 🌱 I’m currently learning NodeJS, React
-- 📫 How to reach me email: <a href="mailto:heslopd23@gmail.com">heslopd23@gmail.com</a>
-- <b>Languages:<b> <i>C, C++, C#, Python, HTML, CSS, JS, React</i>
-- <big>Favorite Language</big>: Python, JS, C#
+
+<img src="https://github-readme-stats.vercel.app/api?username=dylan-dot-c&show_icons=true&theme=nightowl&border_color=red" height="200" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-dot-c&theme=radical&layout=compact&hide=jupyter" height="200" />
+
+## My Socials
+<a href="https://linkedin.com/in/heslopdylan">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&color=blue" />
+</a>
+<a href="https://www.frontendmentor.io/profile/dylan-dot-c">
+<img src="https://img.shields.io/badge/%2540-Frontend%20Mentor-blue?style=for-the-badge&label=%20&color=blue" />
+</a>
+<a href="https://www.codewars.com/users/dylan-dot-c">
+<img src="https://img.shields.io/badge/CodeWars-orange?style=for-the-badge&label=%20&color=orange" />
+</a>
+<a href="https://www.codingame.com/profile/ef9b6cc10aa55dc717aed4363b85fa0d2604134">
+<img src="https://img.shields.io/badge/Clash_Of_Code-orange?style=for-the-badge&label=%20&color=yellow" />
+</a>
+
+## Coding Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,c,cpp,cs,ts)](https://skillicons.dev)
+
+## FrameWorks
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,vue,nextjs,flask,tailwind)](https://skillicons.dev)
+
+## Tools and Utilities
+[![My Skills](https://skillicons.dev/icons?i=git,pinia,postgres,mysql,postman,supabase,sequelize,)](https://skillicons.dev)
+<a href="www.linkedin.com/in/heslopdylan" />
