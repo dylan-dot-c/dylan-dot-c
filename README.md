@@ -3,8 +3,9 @@
  Hello there! My name is Dylan Heslop, a computer science major at <b>Lehman College</b> and I aspire to become a fullStack Software Developer! 
  Programming is something I adore because I love solving problems and helping people learn how to code. My hobbies include:
  - ⚽ playing soccer
- - 🎮 playing video games and
- - 💻 building websites
+ - 🎮 playing video games
+ - 💻 building websites and
+ - 📚 reading
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dylan-dot-c&show_icons=true&theme=nightowl&border_color=red" height="200" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-dot-c&theme=radical&layout=compact&hide=jupyter" height="200" />
